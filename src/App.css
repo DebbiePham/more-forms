@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding-top: 50px;
 }
 
 .App-logo {
@@ -35,4 +36,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+fieldset {
+  width: 20%;
+  margin: 0 auto;
+  border-radius: 20px;
+  padding: 20px;
 }
